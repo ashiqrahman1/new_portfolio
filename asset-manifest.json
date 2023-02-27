@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bac67320.css",
+    "main.js": "/static/js/main.07a258b2.js",
+    "static/media/linux.png": "/static/media/linux.0170b70088935f78c4e2.png",
+    "static/media/docker.png": "/static/media/docker.d5b796e79114a1af7d32.png",
+    "static/media/python.png": "/static/media/python.2f092f2a132673147d85.png",
+    "static/media/k8s.png": "/static/media/k8s.f57d13fc4615d1bebda7.png",
+    "static/media/aws.png": "/static/media/aws.db3a63dbcc7e4fd749e4.png",
+    "static/media/logo.png": "/static/media/logo.c35dc37f4adc8d7b7593.png",
+    "static/media/terraform.png": "/static/media/terraform.d9b1c5d3963547bd96af.png",
+    "index.html": "/index.html",
+    "main.bac67320.css.map": "/static/css/main.bac67320.css.map",
+    "main.07a258b2.js.map": "/static/js/main.07a258b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac67320.css",
+    "static/js/main.07a258b2.js"
+  ]
+}
